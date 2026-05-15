@@ -1,0 +1,13 @@
+# Swift Package Manager + Xcode build artifacts
+.build/
+.swiftpm/
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+
+# Rust build cache (the Rust core that produces ShakeFeedbackCore.xcframework)
+rust/target/
+
+# macOS
+.DS_Store

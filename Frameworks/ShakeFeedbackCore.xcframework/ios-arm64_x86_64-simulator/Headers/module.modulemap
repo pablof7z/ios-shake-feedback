@@ -1,0 +1,5 @@
+module ShakeFeedbackCoreFFI {
+  header "shake_feedback_core.h"
+  export *
+}
+
